@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.remusrd.anotherdoro.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.remusrd.anotherdoro.MyBundle
 
 class MyApplicationService {
 

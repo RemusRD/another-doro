@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.remusrd.anotherdoro.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.remusrd.anotherdoro.MyBundle
 
 class MyProjectService(project: Project) {
 
